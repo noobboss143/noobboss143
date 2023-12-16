@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **N00B B0SS**
 
-- 👨‍💻 All of my projects are available at [github.com/noobboss1](github.com/noobboss1)
+- 👨‍💻 All of my projects are available at [github.com/noobboss1](github.com/noobboss143)
 
 - 📝 I regularly write articles on [https://noobbosstech.blogspot.com/?m=0](https://noobbosstech.blogspot.com/?m=0)
 
